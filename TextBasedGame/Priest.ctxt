@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Priest(java.lang.String)
+comment1.params=
+comment1.target=boolean\ iframe()
+comment2.params=
+comment2.target=int\ damage()
+comment3.params=
+comment3.target=int\ specific()
+comment4.params=
+comment4.target=int\ superSkill()
+numComments=5
