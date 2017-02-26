@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=e\ c
+comment0.target=Battle(Enemy,\ Character)
+comment1.params=
+comment1.target=void\ fightPriest()
+comment2.params=
+comment2.target=void\ fightLancer()
+comment3.params=
+comment3.target=void\ fightSorcerer()
+comment4.params=
+comment4.target=int\ bossAttackType()
+comment5.params=
+comment5.target=int\ bossDamage()
+comment6.params=playerNum
+comment6.target=int\ playerSkill(int)
+comment7.params=
+comment7.target=void\ displaySkills()
+numComments=8
