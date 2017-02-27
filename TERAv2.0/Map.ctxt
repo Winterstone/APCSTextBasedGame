@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=p
+comment0.target=Map(Priest)
+comment1.params=l
+comment1.target=Map(Lancer)
+comment2.params=s
+comment2.target=Map(Sorcerer)
+comment3.params=
+comment3.target=Map()
+comment4.params=
+comment4.target=NamedThing[][]\ getLayout()
+numComments=5
