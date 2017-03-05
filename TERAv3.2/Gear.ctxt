@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=n\ d\ e
+comment0.target=Gear(java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=int\ getEnchant()
+numComments=2

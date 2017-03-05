@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=n\ d\ e\ b
+comment0.target=Weapon(java.lang.String,\ java.lang.String,\ int,\ double)
+comment1.params=
+comment1.target=double\ getBMult()
+numComments=2
