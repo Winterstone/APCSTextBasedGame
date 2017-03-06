@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=filename
+comment0.target=MP3(java.lang.String)
+comment1.params=
+comment1.target=void\ close()
+comment2.params=
+comment2.target=javazoom.jl.player.Player\ getPlayer()
+comment3.params=
+comment3.target=void\ nullPlayer()
+comment4.params=
+comment4.target=void\ play()
+comment5.params=
+comment5.target=void\ run()
+numComments=6

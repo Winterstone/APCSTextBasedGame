@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n\ d\ e\ g\ b
+comment0.target=Glove(java.lang.String,\ java.lang.String,\ int,\ double,\ boolean)
+comment1.params=
+comment1.target=double\ getGMult()
+comment2.params=g
+comment2.target=void\ addGMult(double)
+comment3.params=
+comment3.target=void\ lup()
+numComments=4

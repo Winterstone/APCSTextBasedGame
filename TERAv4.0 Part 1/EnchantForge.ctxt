@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EnchantForge()
+comment1.params=p
+comment1.target=void\ enchant(Character)
+numComments=2
